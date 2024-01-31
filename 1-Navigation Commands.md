@@ -1,4 +1,4 @@
-# Route Commands
+# Navigation Commands
 _In this section, we will go through operations such as file creation, deletion, and moving using the command line interface._
 
 - Let's Start with Our First Command: "setxkbmap"
@@ -45,7 +45,7 @@ _In this section, we will go through operations such as file creation, deletion,
 
    **clear Command:** Clears the terminal.
 
-## End of Rota Commands Section
+## End of Navigation Commands Section
 *I hope it has been helpful!*
 
 ![TvShowsHimymGIF](https://github.com/alperberke/Linux-Shell-Notlar-Kali-/assets/158094774/3ef498eb-9a34-41cc-83c2-4ab4f57e484f)
