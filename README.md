@@ -1,6 +1,6 @@
 # Read Me
 
-*Turkish Version: https://github.com/alperberke/Linux-Shell-Notlari-Kali*
+*Turkish Version: https://github.com/alperberke/Basit-Linux-Shell-Notlari-Kali*
 
 - 🖋️ **Here, I will share the notes I took on Linux Shell.**
 
